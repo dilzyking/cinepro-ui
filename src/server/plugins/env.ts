@@ -10,9 +10,10 @@ const schema = {
     required: ["VITE_TMDB_API_KEY"],
     properties: {
         PORT: {
-            type: "number",
-            default: 5173,
-        },
+    type: "number",
+    default: 5173,
+    coerceTypes: true,
+},
         HOST: {
             type: "string",
             default: "localhost",
