@@ -1,0 +1,1 @@
+import{j as t}from"./index-CRCZXlLF.js";import{M as r}from"./MediaWatchPage-Cb-KUUTI.js";import"./index-Fp15OtU8.js";import"./tabs-B_896cNn.js";import"./strings.utils-DiVwqFSf.js";import"./chevron-left-CdpXpioZ.js";function s(){return t.jsx(r,{type:"tv"})}export{s as default};
