@@ -1,0 +1,16 @@
+{
+  "base": "/",
+  "root": "src/client",
+  "build": {
+    "assetsDir": "assets",
+    "outDir": "build/client/client"
+  },
+  "fastify": {
+    "outDirs": {
+      "ssr": "build/client",
+      "client": "build/client/client"
+    },
+    "entryPaths": {},
+    "usePathsRelativeToAppRoot": true
+  }
+}
